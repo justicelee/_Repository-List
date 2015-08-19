@@ -1,5 +1,5 @@
 # _Repository-List
-This is a list of the repositories for the Dronecode projects
+This is a list of the repositories for Dronecode projects
 
 Please refer to https://www.dronecode.org/dronecode-software-platform for more information.
 
@@ -11,6 +11,12 @@ Pixhawk https://github.com/Pixhawk
 
 MAVLink https://github.com/mavlink
 
-UAVCAN https://github.com/uavcan
+MAVProxy https://github.com/Dronecode/MAVProxy
 
 ROS https://github.com/ros
+
+SiK https://github.com/Dronecode/SiK
+
+UAVCAN https://github.com/uavcan
+
+Vagrant https://github.com/Dronecode/Vagrant
