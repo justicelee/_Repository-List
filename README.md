@@ -19,6 +19,8 @@ Mission Planner https://github.com/diydrones/MissionPlanner
 
 QGroundControl https://github.com/mavlink/qgroundcontrol
 
+Dronekit https://github.com/dronekit
+
 ROS https://github.com/ros
 
 SiK https://github.com/Dronecode/SiK
