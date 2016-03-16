@@ -27,4 +27,6 @@ SiK https://github.com/Dronecode/SiK
 
 UAVCAN https://github.com/uavcan
 
+GCS User Interface https://github.com/Dronecode/UX
+
 Vagrant https://github.com/Dronecode/Vagrant
