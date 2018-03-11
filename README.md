@@ -20,3 +20,5 @@ UAVCAN https://github.com/uavcan
 GCS User Interface https://github.com/Dronecode/UX
 
 Vagrant https://github.com/Dronecode/Vagrant
+
+Drone/Core https://github.com/dronecore/DroneCore
